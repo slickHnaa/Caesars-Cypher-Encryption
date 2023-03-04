@@ -29,3 +29,4 @@ Ciphertext: QEB NRFZH YOLTK CLU GRJMP LSBO QEB IXWV ALD
 Deciphering is done in reverse, with a right shift of 3.
 
 
+Redo and combine both function into one
